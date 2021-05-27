@@ -1,15 +1,5 @@
 import time
 import edgeiq
-"""
-Use object detection to detect objects and the RealSense camera to get
-the distances in meters to those objects in realtime. The types
-of objects detected can be changed by selecting different models.  This app
-requires a Intel RealSense camera to be connected on usb 3.0 port to work.
-
-To change the computer vision model, the engine and accelerator,
-and add additional dependencies read this guide:
-https://alwaysai.co/docs/application_development/configuration_and_packaging.html
-"""
 
 
 def main():
